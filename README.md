@@ -42,7 +42,7 @@ Among my repertoire, "Pandas_Market_Predictor" stands out as the most popular re
 Feel free to collaborate, contribute, or reach out for any questions. Let's unlock the potential of code together! 🚀🌌
 
 
-# Your Profile Name
+# Somkietacode
 
 ## Profile Badges/Stats
 
