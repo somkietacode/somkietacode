@@ -18,6 +18,29 @@ Feel free to explore my repositories and connect with me. Happy coding! 🚀🔥
 
 *P.S. You can also find me on https://m.facebook.com/somkieta.ouedraogo.102/ . Let's connect and learn from each other!*
 
+**Profile Summary:**
+
+With 25 repositories and 5 stars, my work spans across various domains, but I have a particular fondness for deep learning and machine learning applications in the financial market. Let me introduce you to some of my most popular repositories:
+
+1. **Pandas Market Predictor:**
+   - A deep learning API written in Python, built on top of Panda, which facilitates predicting future prices and trends of financial market assets.
+   - Developed with a focus on enabling fast experimentation, it empowers users to make data-driven decisions with ease.
+   - Core data structures include Historical Market Data and Technical Indicator, and users can construct their dataset using the Pandas-TA library.
+   - You can predict the most probable future market trend using the Trend_Detection method, and even estimate asset highs and lows using the Support_Resistance_Estimation_Tool.
+   - Example usage provided to get you started on predicting trends from your dataset.
+
+2. **Artificial Neural Network:**
+   - This deep learning API, written in Python, is engineered to foster rapid experimentation in neural network applications.
+   - With a focus on efficiency and effectiveness, it streamlines the development process for neural network enthusiasts.
+
+3. **ModelSaver:**
+   - As a dedicated machine learning practitioner, I created ModelSaver to provide a simple and convenient way to save and load machine learning models using pickle.
+   - Designed especially for models trained using the Scikit-learn library (sklearn), it's also compatible with other models.
+
+Among my repertoire, "Pandas_Market_Predictor" stands out as the most popular repository. You can visit my GitHub page to explore its full potential and dive into the exciting world of financial market prediction.
+
+Feel free to collaborate, contribute, or reach out for any questions. Let's unlock the potential of code together! 🚀🌌
+
 <!--
 **somkietacode/somkietacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
