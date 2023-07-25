@@ -41,6 +41,18 @@ Among my repertoire, "Pandas_Market_Predictor" stands out as the most popular re
 
 Feel free to collaborate, contribute, or reach out for any questions. Let's unlock the potential of code together! 🚀🌌
 
+
+# Your Profile Name
+
+## Profile Badges/Stats
+
+![Repositories](https://img.shields.io/github/repo-count/somkietacode/somkietacode)
+![Stars](https://img.shields.io/github/stars/somkietacode/somkietacode)
+![Followers](https://img.shields.io/github/followers/somkietacode?style=social)
+![Contributions](https://img.shields.io/github/last-commit/somkietacode/somkietacode)
+
+
+
 <!--
 **somkietacode/somkietacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
